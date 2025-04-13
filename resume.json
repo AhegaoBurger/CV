@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [{
+    "name": "IC DocuTrack Project",
+    "position": "Full Stack Developer",
+    "startDate": "2025-04",
+    "highlights": [
+      "Developed a secure document tracking system on the Internet Computer platform",
+      "Implemented advanced encryption using VetKeys system for secure file sharing",
+      "Built a scalable multi-canister architecture for document management",
+      "Created a modern frontend using SvelteKit and TailwindCSS",
+      "Designed and implemented a hybrid encryption system combining symmetric keys with Identity-Based Encryption",
+      "Developed secure file sharing mechanisms with per-recipient key management",
+      "Implemented chunked file upload system for handling large files efficiently"
+    ]
+  }],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [{
+    "name": "Full Stack Development",
+    "level": "Advanced",
+    "keywords": [
+      "Internet Computer",
+      "Rust",
+      "TypeScript",
+      "SvelteKit",
+      "TailwindCSS",
+      "Cryptography",
+      "DFX",
+      "Candid"
+    ]
+  }, {
+    "name": "Backend Development",
+    "level": "Advanced",
+    "keywords": [
+      "Rust",
+      "Canister Development",
+      "Smart Contracts",
+      "VetKeys Integration",
+      "File System Management",
+      "Multi-canister Architecture"
+    ]
+  }, {
+    "name": "Frontend Development",
+    "level": "Advanced",
+    "keywords": [
+      "SvelteKit",
+      "TailwindCSS",
+      "TypeScript",
+      "Responsive Design",
+      "Web Cryptography",
+      "Internet Identity Integration"
+    ]
+  }, {
+    "name": "Security Engineering",
+    "level": "Advanced",
+    "keywords": [
+      "VetKeys Implementation",
+      "Identity-Based Encryption",
+      "Hybrid Encryption Systems",
+      "Secure File Sharing",
+      "Key Management",
+      "Access Control",
+      "Cryptographic Protocols"
+    ]
+  }],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [{
+    "name": "IC DocuTrack",
+    "description": "A secure document management system built on the Internet Computer platform with advanced encryption capabilities",
+    "highlights": [
+      "Implemented end-to-end encryption using VetKeys system",
+      "Created a multi-canister architecture for scalable document storage",
+      "Developed user-friendly interface with SvelteKit and TailwindCSS",
+      "Integrated Internet Identity for secure authentication",
+      "Implemented hybrid encryption system for efficient large file handling",
+      "Designed secure file sharing with recipient-specific key management",
+      "Built chunked file upload system with progress tracking"
+    ],
+    "keywords": [
+      "Internet Computer",
+      "Rust",
+      "SvelteKit",
+      "TailwindCSS",
+      "VetKeys",
+      "Identity-Based Encryption",
+      "Cryptography",
+      "Document Management"
+    ],
+    "roles": ["Full Stack Developer", "Security Engineer", "System Architect"],
+    "technical_details": {
+      "encryption_features": [
+        "Hybrid encryption combining symmetric keys with IBE",
+        "Per-recipient key management",
+        "Secure key derivation",
+        "File-specific encryption keys",
+        "Chunked encrypted file handling"
+      ],
+      "backend_features": [
+        "Multi-canister architecture",
+        "Secure file storage system",
+        "Access control management",
+        "File sharing permissions"
+      ]
+    }
+  }]
+}
